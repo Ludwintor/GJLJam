@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: 4805fa20a1ae1314cac45f403a58ec54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7165658233912542656
+    second: leshiy_run_0
+  - first:
+      213: 259079781005999313
+    second: leshiy_run_1
+  - first:
+      213: 1088420903864656530
+    second: leshiy_run_2
+  - first:
+      213: -5650015208067227358
+    second: leshiy_run_3
+  - first:
+      213: -1067948644282865117
+    second: leshiy_run_4
+  - first:
+      213: -5693740473972845563
+    second: leshiy_run_5
+  - first:
+      213: -7446580880052676398
+    second: leshiy_run_6
+  - first:
+      213: -6529604483751442913
+    second: leshiy_run_7
+  - first:
+      213: -641146994643999153
+    second: leshiy_run_8
+  - first:
+      213: 8147746434005937717
+    second: leshiy_run_9
+  - first:
+      213: 570382826784673573
+    second: leshiy_run_10
+  - first:
+      213: -8796428929684957011
+    second: leshiy_run_11
+  - first:
+      213: 730372468954805663
+    second: leshiy_run_12
+  - first:
+      213: 4693104909848012052
+    second: leshiy_run_13
+  - first:
+      213: 2132470895901145333
+    second: leshiy_run_14
+  - first:
+      213: -5055422317686683248
+    second: leshiy_run_15
+  - first:
+      213: 4651874291193114963
+    second: leshiy_run_16
+  - first:
+      213: 2442843035854341896
+    second: leshiy_run_17
+  - first:
+      213: -4528956702396358712
+    second: leshiy_run_18
+  - first:
+      213: -7855037668078044477
+    second: leshiy_run_19
+  - first:
+      213: -4049006232044273748
+    second: leshiy_run_20
+  - first:
+      213: -6523221654251868889
+    second: leshiy_run_21
+  - first:
+      213: 5144005631742741389
+    second: leshiy_run_22
+  - first:
+      213: -6245302288353685501
+    second: leshiy_run_23
+  - first:
+      213: 5530400487976761137
+    second: leshiy_run_24
+  - first:
+      213: 7826510478031433356
+    second: leshiy_run_25
+  - first:
+      213: -7686087590938478571
+    second: leshiy_run_26
+  - first:
+      213: 5026248587857874339
+    second: leshiy_run_27
+  - first:
+      213: 8019157602048013875
+    second: leshiy_run_28
+  - first:
+      213: 5760922170462088352
+    second: leshiy_run_29
+  - first:
+      213: -8239459438268633866
+    second: leshiy_run_30
+  - first:
+      213: -234806862939867282
+    second: leshiy_run_31
+  - first:
+      213: -1061203473268999056
+    second: leshiy_run_32
+  - first:
+      213: -1991333859645450560
+    second: leshiy_run_33
+  - first:
+      213: -6260369124025779020
+    second: leshiy_run_34
+  - first:
+      213: 4122861789872296335
+    second: leshiy_run_35
+  - first:
+      213: -4742709717341756019
+    second: leshiy_run_36
+  - first:
+      213: -5323082675818135302
+    second: leshiy_run_37
+  - first:
+      213: -163328610656665651
+    second: leshiy_run_38
+  - first:
+      213: 838838437394990896
+    second: leshiy_run_39
+  - first:
+      213: -2040234358062983354
+    second: leshiy_run_40
+  - first:
+      213: -2097839124032727446
+    second: leshiy_run_41
+  - first:
+      213: 5618080772971153123
+    second: leshiy_run_42
+  - first:
+      213: -7104376651363335091
+    second: leshiy_run_43
+  - first:
+      213: 335128569795481260
+    second: leshiy_run_44
+  - first:
+      213: -1370538181227433686
+    second: leshiy_run_45
+  - first:
+      213: 5658117684426395544
+    second: leshiy_run_46
+  - first:
+      213: -6561915837049500151
+    second: leshiy_run_47
+  - first:
+      213: -1134244923336576929
+    second: leshiy_run_48
+  - first:
+      213: -652852859660209296
+    second: leshiy_run_49
+  - first:
+      213: 2115880303650080968
+    second: leshiy_run_50
+  - first:
+      213: -7835288249669837983
+    second: leshiy_run_51
+  - first:
+      213: 6999811794550954531
+    second: leshiy_run_52
+  - first:
+      213: -3535469496699416881
+    second: leshiy_run_53
+  - first:
+      213: -6451418542577239785
+    second: leshiy_run_54
+  - first:
+      213: 1437707881378860063
+    second: leshiy_run_55
+  - first:
+      213: 8148437457838508784
+    second: leshiy_run_56
+  - first:
+      213: 6614273556181175648
+    second: leshiy_run_57
+  - first:
+      213: 9174034094693362943
+    second: leshiy_run_58
+  - first:
+      213: -7095130200050319236
+    second: leshiy_run_59
+  - first:
+      213: 7957102684982872786
+    second: leshiy_run_60
+  - first:
+      213: -3770420233726512176
+    second: leshiy_run_61
+  - first:
+      213: 4414957768053939587
+    second: leshiy_run_62
+  - first:
+      213: 6073737061019063778
+    second: leshiy_run_63
+  - first:
+      213: -4185984527998156437
+    second: leshiy_run_64
+  - first:
+      213: 7600847598898737473
+    second: leshiy_run_65
+  - first:
+      213: 4062140579192290800
+    second: leshiy_run_66
+  - first:
+      213: 7684953319261418389
+    second: leshiy_run_67
+  - first:
+      213: -7549739623296896194
+    second: leshiy_run_68
+  - first:
+      213: -5404403757357968469
+    second: leshiy_run_69
+  - first:
+      213: 8983249296370740979
+    second: leshiy_run_70
+  - first:
+      213: 9027429347344920098
+    second: leshiy_run_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leshiy_run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3ac13dc77e8c90800000000000000
+      internalID: -7165658233912542656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc395b20bf689300800000000000000
+      internalID: 259079781005999313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29266fc9b09da1f00800000000000000
+      internalID: 1088420903864656530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22129937a1d1791b0800000000000000
+      internalID: -5650015208067227358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae823cd52ed21f0800000000000000
+      internalID: -1067948644282865117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049595a435cbf0b0800000000000000
+      internalID: -5693740473972845563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d89e3da42e68a890800000000000000
+      internalID: -7446580880052676398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16823e315f2265a0800000000000000
+      internalID: -6529604483751442913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466f6f84303a17f0800000000000000
+      internalID: -641146994643999153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e21ee863c921170800000000000000
+      internalID: 8147746434005937717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fcb70b8286ae700800000000000000
+      internalID: 570382826784673573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 275
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da898227e7ecce580800000000000000
+      internalID: -8796428929684957011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b6cd04edc22a00800000000000000
+      internalID: 730372468954805663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e125ec02412140800000000000000
+      internalID: 4693104909848012052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8fb044bfe089d10800000000000000
+      internalID: 2132470895901145333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09904b4df2887d9b0800000000000000
+      internalID: -5055422317686683248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351765a6507ce8040800000000000000
+      internalID: 4651874291193114963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80782226cc8b6e120800000000000000
+      internalID: 2442843035854341896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5a86efd9e521c0800000000000000
+      internalID: -4528956702396358712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca35e0dbdc4df290800000000000000
+      internalID: -7855037668078044477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf78a5d84a0fc7c0800000000000000
+      internalID: -4049006232044273748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d6e2b877cd875a0800000000000000
+      internalID: -6523221654251868889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b82a23edd236740800000000000000
+      internalID: 5144005631742741389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 220
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3009eb368aa3459a0800000000000000
+      internalID: -6245302288353685501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137708741fdefbc40800000000000000
+      internalID: 5530400487976761137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eafe920d95d9c60800000000000000
+      internalID: 7826510478031433356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f2950f08855590800000000000000
+      internalID: -7686087590938478571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc310e572d0c540800000000000000
+      internalID: 5026248587857874339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f1fb0a55c94f60800000000000000
+      internalID: 8019157602048013875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca01df038e2ff40800000000000000
+      internalID: 5760922170462088352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc22c0ab4f87ad80800000000000000
+      internalID: -8239459438268633866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6735a7f66ccdbcf0800000000000000
+      internalID: -234806862939867282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf3654019d541f0800000000000000
+      internalID: -1061203473268999056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c610aab76c5d54e0800000000000000
+      internalID: -1991333859645450560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcbe975373be19a0800000000000000
+      internalID: -6260369124025779020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_35
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 165
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819e5b34f8573930800000000000000
+      internalID: 4122861789872296335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852d09d3a28e2eb0800000000000000
+      internalID: -4742709717341756019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af003dd528c9026b0800000000000000
+      internalID: -5323082675818135302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb6247e7dbbbdf0800000000000000
+      internalID: -163328610656665651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0374fdc4d1724ab00800000000000000
+      internalID: 838838437394990896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647db1539a1afa3e0800000000000000
+      internalID: -2040234358062983354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66dc187e6af2e2e0800000000000000
+      internalID: -2097839124032727446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c56872be67fd40800000000000000
+      internalID: 5618080772971153123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c8e0831f286d90800000000000000
+      internalID: -7104376651363335091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8ebc98ad96a400800000000000000
+      internalID: 335128569795481260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2134dc19cedafce0800000000000000
+      internalID: -1370538181227433686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_46
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f47955e0ca58e40800000000000000
+      internalID: 5658117684426395544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_47
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 110
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e87ae00546fe4a0800000000000000
+      internalID: -6561915837049500151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50bb30704a5240f0800000000000000
+      internalID: -1134244923336576929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fa5978c990f6f0800000000000000
+      internalID: -652852859660209296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80f4efced1d5d10800000000000000
+      internalID: 2115880303650080968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b13ad99d6734390800000000000000
+      internalID: -7835288249669837983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9cc49db3542160800000000000000
+      internalID: 6999811794550954531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8007793d7feec0800000000000000
+      internalID: -3535469496699416881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b0504405f776a0800000000000000
+      internalID: -6451418542577239785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ccd5863b3c3f310800000000000000
+      internalID: 1437707881378860063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_56
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa83f412b0151170800000000000000
+      internalID: 8148437457838508784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_57
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d407361ce9acb50800000000000000
+      internalID: 6614273556181175648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc258b2767b05f70800000000000000
+      internalID: 9174034094693362943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_59
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 55
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70cad6bca8098d90800000000000000
+      internalID: -7095130200050319236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da06b3cbbe4d6e60800000000000000
+      internalID: 7957102684982872786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d339c226c6ccabc0800000000000000
+      internalID: -3770420233726512176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd437d2b4154d30800000000000000
+      internalID: 4414957768053939587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e59a2d4daf3a4450800000000000000
+      internalID: 6073737061019063778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618365004568e5c0800000000000000
+      internalID: -4185984527998156437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417d34ce92ab7960800000000000000
+      internalID: 7600847598898737473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb47aa55f9f5830800000000000000
+      internalID: 4062140579192290800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5933906c35076aa60800000000000000
+      internalID: 7684953319261418389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3372b610dfe93790800000000000000
+      internalID: -7549739623296896194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba354eb9a63bff4b0800000000000000
+      internalID: -5404403757357968469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea4f6c3a9eaac70800000000000000
+      internalID: 8983249296370740979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leshiy_run_71
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e2e6b792fd74d70800000000000000
+      internalID: 9027429347344920098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

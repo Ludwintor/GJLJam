@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0750a106673d3c149b9892a2fae10b70, type: 3}
+  m_Name: Cannon
+  m_EditorClassIdentifier: 
+  id: cannon
+  bulletsPerShoot: 1
+  damagePerBullet: 8
+  scaleBulletWithDamage: 0
+  delayBetweenShots: 0
+  maxSpread: 10
+  speed: 9
+  bounces: 0
+  gunSprite: {fileID: 21300000, guid: b2ce619537dc2ea49bdd364e173ee795, type: 3}
+  gunPrefab: {fileID: 7348850722371036367, guid: f0439b4fc6575e54a855cf4fc1f5c986, type: 3}
+  bulletSprite: {fileID: 21300000, guid: f25b74fff592b7a419b8633c5a2fe4d4, type: 3}
+  muzzleFlash: {fileID: 7400000, guid: 231494f4cca06e34e9a6f03594dabbbe, type: 2}
+  shotSound: {fileID: 8300000, guid: 28c977c19c752c44fbf1cb951969d4a8, type: 3}
+  isTwoHanded: 1

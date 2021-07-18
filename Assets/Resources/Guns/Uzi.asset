@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0750a106673d3c149b9892a2fae10b70, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  id: uzi
+  bulletsPerShoot: 8
+  damagePerBullet: 1
+  scaleBulletWithDamage: 1
+  delayBetweenShots: 0.065
+  maxSpread: 40
+  speed: 7
+  bounces: 0
+  gunSprite: {fileID: 21300000, guid: ebea7684d2b3fbe4eac34c4ba9ca710d, type: 3}
+  gunPrefab: {fileID: 5205835146841561615, guid: 0c148062eef0b1049a2b1b3d74b5585e, type: 3}
+  bulletSprite: {fileID: 21300000, guid: b482653f62d5e404585ac17af82d54bc, type: 3}
+  muzzleFlash: {fileID: 0}
+  shotSound: {fileID: 8300000, guid: 36697aacb33d6394c969bbe35ce56421, type: 3}
+  isTwoHanded: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0750a106673d3c149b9892a2fae10b70, type: 3}
+  m_Name: SawedOff
+  m_EditorClassIdentifier: 
+  id: sawedoff
+  bulletsPerShoot: 2
+  damagePerBullet: 3
+  scaleBulletWithDamage: 1
+  delayBetweenShots: 0
+  maxSpread: 32
+  speed: 6
+  bounces: 0
+  gunSprite: {fileID: 21300000, guid: 30f8d9e276eee684aa7685f31810cd9f, type: 3}
+  gunPrefab: {fileID: 3538174177485459967, guid: 2e0d7d91133046e4eb042fd70667c65a, type: 3}
+  bulletSprite: {fileID: 21300000, guid: b482653f62d5e404585ac17af82d54bc, type: 3}
+  muzzleFlash: {fileID: 7400000, guid: bf8aad42e219b234f8177626d3972e30, type: 2}
+  shotSound: {fileID: 8300000, guid: 1e6bab113bd95d54d9c34a3670b2b779, type: 3}
+  isTwoHanded: 1
